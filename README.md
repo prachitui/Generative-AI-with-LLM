@@ -1,6 +1,8 @@
 # Generative AI with LLMs
 In Generative AI with Large Language Models (LLMs), I learned the fundamentals of how generative AI works, and how to deploy it in real-world applications.
 
+[Prachi_LLM Certificate](GenAI_LLM.pdf)
+
 I took this course on Coursera, and this is all I learned:
 
 * Deep understanding of generative AI, describing the key steps in a typical LLM-based generative AI lifecycle, from data gathering and model selection, to performance evaluation and deployment.
@@ -49,3 +51,7 @@ Reinforcement learning and LLM-powered applications
 * Discuss the challenges that LLMs face with knowledge cut-offs, and explain how information retrieval and augmentation techniques can overcome these challenges.
   
 [Lab 3 - Fine-tune FLAN-T5 with reinforcement learning to generate more-positive summaries](https://github.com/prachitui/Generative-AI-with-LLM/blob/main/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
+
+
+
+
